@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background: #b2bec3;
+    background: #dfe6e9b4;
 }
 
 .primary_color{
@@ -19,6 +19,7 @@ body{
     color: #ffff;
     border-radius: 10px;
     border: none;
+    cursor: pointer;
 }
 
 header{
@@ -276,6 +277,7 @@ footer .parent ul a{
     padding: 71px 151px;
     text-align: center;
       font-family: "Inter", sans-serif;
+      border-radius: 10px;
 }
 .focus_aria .focus_parent h2{
     font-size: 50px;
