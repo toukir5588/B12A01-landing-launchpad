@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+body{
+    background: rgba(77, 71, 255, 0.038);
+}
 
 .primary_color{
     color:#4E47FF;
@@ -112,3 +115,86 @@ header{
 
 }
 
+.lets_et_in_touch_section{
+    margin: 93px 160px 14px;
+}
+.lets_et_in_touch_section .parent .child{
+    display: flex;
+    width: ;
+    gap: 115px;
+    justify-content: space-between;
+    align-items: center;
+}
+.lets_et_in_touch_section .child h1{
+    font-family:"Raleway", sans-serif;
+    font-size: 92px;
+    font-weight: bold;
+}
+
+.lets_et_in_touch_section .child form{
+    display: flex;
+    flex-direction: column;
+    font-family:"inter", sans-serif  ;
+    padding: 71px 0;
+}
+.lets_et_in_touch_section .child form input{
+    padding: 20px;
+    width: 497px;
+    margin-bottom: 19px;
+    font-size: 20px;
+    color:  rgba(37, 36, 50, 0.5);
+    border: 1px solid  rgba(214, 221, 237, 1);
+    border-radius: 10px;
+}
+.lets_et_in_touch_section .child form label{
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+.lets_et_in_touch_section .child form textarea{
+    padding: 20px;
+    width: 497px;
+    margin-bottom: 19px;
+    font-size: 20px;
+    color:  rgba(37, 36, 50, 0.5);
+    border: 1px solid  rgba(214, 221, 237, 1);
+    border-radius: 10px;
+}
+
+footer{
+    background: #ffff;
+    font-family: "inter", sans-serif ;
+    text-align: center;
+}
+footer .parent{
+    padding: 104px 455px;
+}
+footer .parent h1{
+    font-size: 100px;
+    font-weight: 900;
+    padding-bottom: 8px;
+}
+footer .parent p{
+    font-size: 18px;
+    color: #8987A1;
+    font-weight: 400;
+    padding: 8px 22px 20px;
+
+}
+footer .parent ul{
+
+    display: flex;
+    justify-content: center;
+    gap: 48px;
+
+}
+footer .parent ul li{
+list-style: none;
+
+}
+footer .parent ul a{
+    text-decoration: none;
+    font-size: 18px;
+    color: #8987A1;
+    font-weight: 400;
+
+}
