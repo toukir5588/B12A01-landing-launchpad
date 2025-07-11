@@ -303,7 +303,7 @@ header{
     margin-bottom: 19px;
     font-size: 20px;
     color:  rgba(37, 36, 50, 0.5);
-    border: 1px solid  rgba(214, 221, 237, 1);
+    color: #252432;
     border-radius: 10px;
 }
 
@@ -317,7 +317,7 @@ header{
     width: 497px;
     margin-bottom: 19px;
     font-size: 20px;
-    color:  rgba(37, 36, 50, 0.5);
+    color: #252432;
     border: 1px solid  rgba(214, 221, 237, 1);
     border-radius: 10px;
 }
